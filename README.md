@@ -1,4 +1,4 @@
-﻿# Gortana GPT - Voice Chat Interface using Azure Cognitive Services and OpenAI ChatGTP
+﻿# Gortana GPT - Voice Chat Interface using Azure Cognitive Services and OpenAI ChatGPT
 
 This project is a .NET 7.0 C# console application that utilizes Azure Cognitive Services and OpenAI ChatGPT to create a voice chat interface. 
 With this project, you can have natural, voice-based conversations with a chatbot using your microphone.
