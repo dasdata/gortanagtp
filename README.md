@@ -2,15 +2,14 @@
 
 This project is a .NET 7.0 C# console application that utilizes Azure Cognitive Services and OpenAI ChatGPT to create a voice chat interface. 
 With this project, you can have natural, voice-based conversations with a chatbot using your microphone.
-
-[Show printscreen](short-gpt_gortana.gif)
-
+ 
+![Prinscreen](short-gpt_gortana.gif)
 
 ## Features
 
 Several features are integrated:  
 
-* 02.03.23
+ 02.03.23 
 - choose voice or text interaction
 - reset conversation
 - keep short time memory
