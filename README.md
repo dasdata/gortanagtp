@@ -15,6 +15,8 @@ Several features are integrated:
 - reset conversation
 - keep short time memory
 - timeout reset if no voice interaction present 
+- random avatars 
+- typing & voice sync
 
 
 
