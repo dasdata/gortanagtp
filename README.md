@@ -4,7 +4,7 @@ This project is a .NET 7.0 C# console application that utilizes Azure Cognitive 
 With this project, you can have natural, voice-based conversations with a chatbot using your microphone.
  
 
-<img src="main-chat.jpg" width="450" height="450"/>
+<img src="main-chat.jpg" width="640" height="450"/>
 
 ## Features
 
